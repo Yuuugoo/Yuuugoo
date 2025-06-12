@@ -3,12 +3,8 @@
 🎓 Fresh Computer Science graduate based in Quezon City, Philippines, currently diving deep into **full stack development** and **IoT integration**.
 
 ---
-
-## 💻 About Me
-
+## 🛠️ About Me
 I'm passionate about building web applications from the ground up — from backend logic to interactive frontend experiences. My tech stack revolves around:
-
-## 🛠️ Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -49,10 +45,10 @@ I'm passionate about building web applications from the ground up — from backe
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuuugoo&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuugoo&layout=compact&theme=radical" height="180" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuuugoo&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuugoo&layout=compact&theme=radical" width="49%" />
+</div>
 
 ---
 
