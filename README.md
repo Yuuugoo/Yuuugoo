@@ -8,33 +8,44 @@
 
 I'm passionate about building web applications from the ground up — from backend logic to interactive frontend experiences. My tech stack revolves around:
 
-- **Backend:** Laravel, Node.js, Django
-- **Frontend:** JavaScript, Tailwind CSS, Alpine.js, React
-- **Databases:** MySQL, MariaDB, PostgreSQL, MongoDB
-- **Tools & Platforms:** Docker, Digital Ocean, AWS EC2, Ubuntu, Git, Nginx
+## 🛠️ Tech Stack
 
-Currently learning how to integrate IoT systems with modern web platforms for real-world, interactive applications.
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/PHP-333?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/CSS3-333?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript" />
+  <br/>
 
----
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Laravel-333?style=flat&logo=laravel" />
+  <img src="https://img.shields.io/badge/Laravel%20Filament-333?style=flat&logo=laravel" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-333?style=flat&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Alpine.js-333?style=flat&logo=alpine.js" />
+  <img src="https://img.shields.io/badge/React-333?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Django-333?style=flat&logo=django" />
+  <img src="https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/Plotly%20Dash-333?style=flat&logo=plotly" />
+  <br/>
 
-## 🛠 Tech Stack
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-333?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/MariaDB-333?style=flat&logo=mariadb" />
+  <img src="https://img.shields.io/badge/PostgreSQL-333?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-333?style=flat&logo=mongodb" />
+  <br/>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="Ubuntu" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-333?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/Docker-333?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/Nginx-333?style=flat&logo=nginx" />
+  <img src="https://img.shields.io/badge/Ubuntu-333?style=flat&logo=ubuntu" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-333?style=flat&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Digital%20Ocean-333?style=flat&logo=digitalocean" />
+  <img src="https://img.shields.io/badge/VS%20Code-333?style=flat&logo=visual-studio-code" />
 </p>
 
----
 
 ## 📈 GitHub Stats
 
