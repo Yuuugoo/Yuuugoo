@@ -20,6 +20,7 @@ I'm passionate about building web applications from the ground up — from backe
   <img src="https://img.shields.io/badge/Tailwind%20CSS-333?style=flat&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/Alpine.js-333?style=flat&logo=alpine.js" />
   <img src="https://img.shields.io/badge/React-333?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Vue.js-333?style=flat&logo=vue.js" />
   <img src="https://img.shields.io/badge/Django-333?style=flat&logo=django" />
   <img src="https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js" />
   <br/>
