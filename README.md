@@ -22,7 +22,6 @@ I'm passionate about building web applications from the ground up — from backe
   <img src="https://img.shields.io/badge/React-333?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/Django-333?style=flat&logo=django" />
   <img src="https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/Plotly%20Dash-333?style=flat&logo=plotly" />
   <br/>
 
   <!-- Databases -->
