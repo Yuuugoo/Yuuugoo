@@ -72,6 +72,5 @@ I'm passionate about building web applications from the ground up — from backe
 ## 📫 Let's Connect
 
 📧 daniel.timbal103@gmail.com  
-🌐 [GitHub Profile](https://github.com/Yuuugoo)
 
 ---
