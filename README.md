@@ -46,7 +46,7 @@ I'm passionate about building web applications from the ground up — from backe
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuugoo&layout=compact" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuugoo&layout=compact" width="50%" />
 </div>
 
 ---
