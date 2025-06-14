@@ -61,9 +61,7 @@ I'm passionate about building web applications from the ground up — from backe
 
 ## 🧘 Hobbies & Interests
 
-- 🌱 In-house gardening  
 - 📚 Reading sci-fi comics and manga  
-- 🚶 Walking & jogging  
 - 🤖 Tinkering with IoT gadgets
 
 ---
